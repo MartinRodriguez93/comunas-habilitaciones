@@ -70,7 +70,6 @@ mpmath==1.1.0
 msgpack==1.0.0
 multipledispatch==0.6.0
 munch==2.5.0
-navigator-updater==0.2.1
 numexpr==2.7.1
 nycflights13==0.0.3
 olefile==0.46
