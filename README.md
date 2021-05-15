@@ -5,7 +5,7 @@ La notebook 'comunas-habilitaciones.ipynb' muestra el código del EDA sobre los 
 
 La notebook 'dash-presentacion.ipynb' muestra el código para generar la presentación en DASH en base el dataframe y gráficos creados en la notbeook anterior.
 
-El file 'video-dash' es un video del resultado final de la presentación en DASH.
+Ver Heroku en: https://prueba-dash-comunas.herokuapp.com
 
 Integrantes:
 
